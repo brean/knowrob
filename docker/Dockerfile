@@ -1,7 +1,6 @@
 FROM ubuntu:18.04
 MAINTAINER Daniel Beßler, danielb@uni-bremen.de
 
-ARG HOST_IP=172.17.0.1
 ARG ROS_SOURCES="http://packages.ros.org/ros/ubuntu"
 
 ARG USE_APT_CACHE=0
