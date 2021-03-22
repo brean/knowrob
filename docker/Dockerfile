@@ -66,7 +66,6 @@ ENV CMAKE_PREFIX_PATH=/home/ros/melodic/catkin_ws/devel:/opt/ros/melodic
 ENV PKG_CONFIG_PATH=/home/ros/devel/lib/pkgconfig:/opt/ros/melodic/lib/pkgconfig
 ENV ROS_MASTER_URI=http://localhost:11311
 ENV ROS_WORKSPACE=/home/ros
-ENV ROS_IP=127.0.0.1
 ENV SWI_HOME_DIR=/usr/lib/swi-prolog
 ENV PYTHONPATH=/home/ros/devel/lib/python2.7/dist-packages:/opt/ros/melodic/lib/python2.7/dist-packages
 ENV LD_LIBRARY_PATH=/home/ros/devel/lib:/opt/ros/melodic/lib:/opt/ros/melodic/lib/python2.7/dist-packages
